@@ -33,7 +33,7 @@ public class ControlerPersonnage : MonoBehaviour
         {
 
         
-        if (pv <= 0)//si les pv du hero sont plus ou egal a zero mort devient true
+        if (pv == 0)//si les pv du hero sont plus ou egal a zero mort devient true
         {
             estMort = true; //est mort devient true
         }
@@ -102,15 +102,16 @@ public class ControlerPersonnage : MonoBehaviour
         {
 
             GetComponent<Animator>().SetTrigger("blesse");//activer l'animation de mort
-            pv -= 15; // le hero perd 15 points de vie
+            pv -= 20; // le hero perd 15 points de vie
             PointDeVie.text = pv.ToString();
 
         }
 
-        if (Collision.gameObject.name == "MonstreVolant" && estMort) // si il y une collision entre le monstre et est mort est true
+        if (Collision.gameObject.name == "MonstreVolant" && estMort && pv <= 0) // si il y une collision entre le monstre et est mort est true
         {
             gameObject.GetComponent<Collider2D>().enabled = false;//enlever le collider
             pv = 0;
+            PointDeVie.text = pv.ToString();
             GetComponent<Animator>().SetTrigger("mort");//activer l'animation de mort
             Invoke("RelancerJeu", 5f); //relancer la scene de jeu après 5 secondes
         }
