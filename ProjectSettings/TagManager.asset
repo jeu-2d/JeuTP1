@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - mechant
+  - mechanNiv2
+  - mechantNiv3
+  - monstreVolantDeplacement
   layers:
   - Default
   - TransparentFX

@@ -9,7 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/IntroDeJeu.unity
     guid: 68c6e6aaa707669438e1def3dc3bff52
   - enabled: 1
-    path: Assets/Scenes/SceneDeJeu.unity
+    path: Assets/Scenes/Niveau1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Niveau2.unity
+    guid: feb1e60df0f28eb4b930bd22b830f573
+  - enabled: 1
+    path: Assets/Scenes/Niveau3.unity
+    guid: e5755f1f6482fa14d8805de060595927
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: cb8e82a6938fa1c4b8907cb962c787ee
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\controlerpersonnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\controlerpersonnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\viedommage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\viedommage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\controlerpersonnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlerpersonnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\viedommageniv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\viedommageniv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\viedommageniv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\viedommageniv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\scriptportail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptportail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\rouleauattaque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rouleauattaque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\scriptfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\script intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\assets\\scripts\\mechantniv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mechantniv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|c:\\users\\yo2co\\onedrive\\bureau\\yohan_jacques_tp1_jeu\\jeutp1\\assets\\scripts\\mechantniv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126255D-D4A8-B39F-5C1F-167F60C31ABD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mechantniv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ControlerPersonnage.cs",
-              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\ControlerPersonnage.cs",
-              "RelativeDocumentMoniker": "Assets\\ControlerPersonnage.cs",
-              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\ControlerPersonnage.cs",
-              "RelativeToolTip": "Assets\\ControlerPersonnage.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAAQAAAA",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\ControlerPersonnage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlerPersonnage.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\ControlerPersonnage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlerPersonnage.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAtwJoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:55:50.953Z",
+              "WhenOpened": "2024-05-30T00:55:53.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VieDommageNiv3.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\VieDommageNiv3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VieDommageNiv3.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\VieDommageNiv3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VieDommageNiv3.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:45:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VieDommageNiv2.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\VieDommageNiv2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VieDommageNiv2.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\VieDommageNiv2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VieDommageNiv2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:42:57.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VieDommage.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\VieDommage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VieDommage.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\VieDommage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VieDommage.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:35:09.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScriptPortail.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\ScriptPortail.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptPortail.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\ScriptPortail.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptPortail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:33:55.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScriptFin.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\ScriptFin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptFin.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\ScriptFin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptFin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:31:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Script intro.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\Script intro.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script intro.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\Script intro.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script intro.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:26:32.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouleauAttaque.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\RouleauAttaque.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RouleauAttaque.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\RouleauAttaque.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RouleauAttaque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:24:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mechantNiv3.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\mechantNiv3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mechantNiv3.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\mechantNiv3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mechantNiv3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:20:42.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mechantNiv2.cs",
+              "DocumentMoniker": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\mechantNiv2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mechantNiv2.cs",
+              "ToolTip": "C:\\Users\\yo2co\\OneDrive\\Bureau\\yohan_jacques_TP1_jeu\\JeuTP1\\Assets\\Scripts\\mechantNiv2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mechantNiv2.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:12:38.972Z",
               "EditorCaption": ""
             }
           ]
